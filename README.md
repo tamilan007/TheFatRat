@@ -8,6 +8,7 @@
 [![Available](https://img.shields.io/badge/Available-BlackArch-red.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/CEHv10-eccouncil-blue.svg?maxAge=259200)](https://github.com/ManhNho/CEHv10/tree/master/Slides)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
+![GitHub repo size](https://img.shields.io/github/repo-size/Morsmalleo/AhMyth)]()
 
 
 ###  A Massive Exploiting Tool
